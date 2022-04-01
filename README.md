@@ -7,6 +7,6 @@
 > It likely will not spawn infected if survivors can see them, but because of anne, it will teleport infected, so maybe TP on your face?? XD.  
 
 ## Reason
-> I made this coop because `Anne`'s plugin isn't friendly to survivor since 11-28 plugin.  
-> `Anne` now spawn infected in a unfriendly way, like on your face and on your back.  
+> I made this coop because `AnneHappy`'s plugin isn't friendly to survivor since 11-28 plugin.  
+> `AnneHappy` now spawn infected in a unfriendly way, like on your face and on your back.  
 > Hard is needed, but not in this way. That's why I made `AngelBeats`  
