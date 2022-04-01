@@ -4,7 +4,7 @@
 > This is a new pills coop based on zonemod.  
 > It use anne's 7-7 plugin to spawn infected.  
 > This is more like ast but more difficult than ast.  
-> It likely will not spawn infected if survivor can see them, but because of anne, it will teleport infected, so maybe TP on your face?? XD.  
+> It likely will not spawn infected if survivors can see them, but because of anne, it will teleport infected, so maybe TP on your face?? XD.  
 
 ## Reason
 > I made this coop because `Anne`'s plugin isn't friendly to survivor since 11-28 plugin.  
