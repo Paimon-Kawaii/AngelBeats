@@ -1,0 +1,73 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}[本章节地图]: {GREEN}{CURRENTMAP} \n{LIGHTGREEN}[服务器时间]: {GREEN}{TIME24} - {DATE}"
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"{GREEN}!slots开位 !away闲置 !join加入生还"
+	}
+	"3"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}使用{GREEN}!buy{LIGHTGREEN}购买补给并选择初始近战"
+	}
+	"4"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}克局不要光顾着集火 {GREEN}多黑几枪队友{LIGHTGREEN}也是不会被发现的啦"
+	}
+	"5"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}为了大家的游戏体验 本药役建议{GREEN}开挂游玩"
+	}
+	"6"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}血量{GREEN}低于40{LIGHTGREEN}时要记得暗示队友给药 不给可以{GREEN}直接黑枪{LIGHTGREEN}哦"
+	}
+	"7"
+	{
+		"type"		"S"
+		"text"		"{GREEN}!zs自杀 !tank查看克局位置 !current查看当前位置 \n{GREEN}!buy购物商店 !xx模式查询"
+	}
+	"8"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}本组服务器都有商店系统 打不过可以输入{GREEN}!buy{LIGHTGREEN}进行氪金"
+	}
+	"9"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}倒地{GREEN}小手枪 {LIGHTGREEN}特感心发慌 倒地{GREEN}马格南 {LIGHTGREEN}特感没法玩"
+	}
+	"10"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}本服腐竹：{GREEN}我是派蒙啊 {LIGHTGREEN}看到了务必带带我啊QwQ"
+	}
+	"11"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}克局一定要{GREEN}追着克打 {LIGHTGREEN}不然就要被特感背刺啦"
+	}
+	"12"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}如果队友旁边{GREEN}出现胖子{LIGHTGREEN}一定要{GREEN}立刻开枪 {LIGHTGREEN}以免胖子被推开"
+	}
+	"13"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}杀死特感可以获得{GREEN}饭票{LIGHTGREEN}用以购买物品"
+	}
+	"14"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}偷偷告诉你，{GREEN}麻婆豆腐 {LIGHTGREEN}是个好东西哦"
+	}
+}
