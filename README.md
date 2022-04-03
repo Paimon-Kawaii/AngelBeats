@@ -3,7 +3,7 @@
 ## New Pills Coop
 > This is a new pills coop **based on `Zonemod`**.  
 > It uses **`Anne`'s _7-7_ plugin** to spawn infected.  
-> It is **more like ast but more difficult than ast**.  
+> It **looks like ast but more difficult than ast**.  
 > It likely won't spawn infected if survivors can see them, but because of anne, it will teleport infected, so maybe TP on your face?? XD.  
 
 ## Reason
