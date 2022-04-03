@@ -8,5 +8,5 @@
 
 ## Reason
 > I made this coop because `AnneHappy` is **unfriendly** to survivor since _11-28_ plugin.  
-> `AnneHappy` now spawn infected in an **_unfriendly way_**, such as spawn **on your face** or **on your back**.  
+> `AnneHappy` now spawn infected in an **_unfriendly way_**, such as spawn **on your face** or **on your back** etc.  
 > **Hard is needed**, but **_not in this way_**. That's why I made `AngelBeats`.
