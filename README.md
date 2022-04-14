@@ -25,7 +25,7 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因. 
 
 # Update logs(EN & ZH)
-## **4.11(EN)**  
+## 4.11(EN)
 > Add a plugin and a vote that allows player to choose which type of infected she wanna player with.  
-## **4.11(ZH)**  
+## 4.11(ZH)
 > 添加了特感派对的插件，使用!vote进行选择  
