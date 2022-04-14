@@ -11,7 +11,7 @@
 > `AnneHappy` now spawn infected in an **_unfriendly way_**, such as spawn **on your face** or **on your back** etc.  
 > **Hard is needed**, but **_not in this way_**. That's why I made `AngelBeats`.
 
-# AngelBeats - Readme(CH)
+# AngelBeats - Readme(ZH)
  
 ## 新的药役
 > 这是一个 **基于 `Zonemod`** 的新药役.  
@@ -24,8 +24,8 @@
 > `AnneHappy` 现在生成特感 **_以一种极端的方式_**, 例如 **贴脸刷** 或者 **转身刷** 等等.  
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因. 
 
-### Update logs(EN & CH)
+### Update logs(EN & ZH)
 > **4.11(EN)**  
 > Add a plugin and a vote that allows player to choose which type of infected she wanna player with.  
-> **4.11(CH)**  
+> **4.11(ZH)**  
 > 添加了特感派对的插件，使用!vote进行选择  
