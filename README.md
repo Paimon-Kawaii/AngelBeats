@@ -22,10 +22,14 @@
 ## 原因
 > 我制作这个药役的原因是 `AnneHappy` 自 _11-28_ 后对生还**极不友好**.  
 > `AnneHappy` 现在生成特感 **_以一种极端的方式_**, 例如 **贴脸刷** 或者 **转身刷** 等等.  
-> **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因. 
+> **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
-# Update logs(EN & ZH)
+# AngelBeats - Update logs(EN & ZH)
 ## 4.11(EN)
 > Add a plugin and a vote that allows player to choose which type of infected she wanna player with.  
+> Weaken the tank when playing charger or jockey party.  
+> Fixed player self-save times when survivor count is lower than 4.
 ## 4.11(ZH)
 > 添加了特感派对的插件，使用!vote进行选择  
+> 削弱了ChargerParty和JockeyParty中的tank  
+> 修复了玩家在4人以下时的解控次数错误问题  
