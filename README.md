@@ -25,6 +25,16 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 4.15(EN)
+> Fixed the plugin's URL.  
+> Update the latest AI-Tank-Enhance plugin.  
+> Add a Save-Chat plugin.  
+> Fixed Spec-Hud plugin's error report cause by Pause plugin is missing.  
+## 4.15(ZH)
+> 修正了插件的项目链接  
+> 升级了Tank增强插件为最新的消耗克插件  
+> 新增了一个插件用于保存聊天记录，方便查证  
+> 修复了Tank面板因为缺少Pause插件的引用而产生的报错  
 ## 4.14(EN)
 > Add a plugin and a vote that allows player to choose which type of infected she wanna player with.  
 > Weaken the tank when playing charger or jockey party.  
