@@ -28,11 +28,15 @@
 ## 4.15(EN)
 > Fixed the plugin's URL.  
 > Update the latest AI-Tank-Enhance plugin.  
+> Change the tank consume times to 1  
+> Change the tank suffered damage percent to 100  
 > Add a Save-Chat plugin.  
 > Fixed Spec-Hud plugin's error report cause by Pause plugin is missing.  
 ## 4.15(ZH)
 > 修正了插件的项目链接  
 > 升级了Tank增强插件为最新的消耗克插件  
+> 修改克消耗最大次数为1  
+> 修改克消耗受到伤害比例为100%  
 > 新增了一个插件用于保存聊天记录，方便查证  
 > 修复了Tank面板因为缺少Pause插件的引用而产生的报错  
 ## 4.14(EN)
