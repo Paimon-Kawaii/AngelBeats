@@ -1,3 +1,19 @@
+# AngelBeats - Catalog
+
+* [AngelBeats - Readme(EN)](#angelbeats---readmeen)
+  * [New Pills Coop](#new-pills-coop)
+  * [Reason](#reason)
+* [AngelBeats - Readme(中文)](#angelbeats---readmezh)
+  * [新的药役](#新的药役)
+  * [原因](#原因)
+* [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [4.17 Update(EN)](#417-updateen)
+  * [4.17 Update(中文)](#417-updatezh)
+  * [4.15 Update(EN)](#415-updateen)
+  * [4.15 Update(中文)](#415-updatezh)
+  * [4.14 Update(EN)](#414-updateen)
+  * [4.14 Update(中文)](#414-updatezh)
+
 # AngelBeats - Readme(EN)
  
 ## New Pills Coop
@@ -25,33 +41,33 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
-## 4.17(EN)
+## 4.17 Update(EN)
 > Fixed Spec-Hud to show the state of tank.  
 > Updated the MVP info, added more statistics MSG.  
 > Add a vote allows player to use infinite shoved.  
-## 4.17(ZH)
+## 4.17 Update(ZH)
 > 修复了旁观视角的TankHud  
 > 升级了Mvp的技术信息统计，添加了章节时长和重启次数  
 > 添加了一个投票，允许玩家使用无限推，用于训练枪法  
-## 4.15(EN)
+## 4.15 Update(EN)
 > Fixed the plugin's URL.  
 > Update the latest AI-Tank-Enhance plugin.  
 > Change the tank consume times to 1.  
 > Change the tank suffered damage percent to 100.  
 > Add a Save-Chat plugin.  
 > Fixed Spec-Hud plugin's error report cause by Pause plugin is missing.  
-## 4.15(ZH)
+## 4.15 Update(ZH)
 > 修正了插件的项目链接  
 > 升级了Tank增强插件为最新的消耗克插件  
 > 修改克消耗最大次数为1  
 > 修改克消耗受到伤害比例为100%  
 > 新增了一个插件用于保存聊天记录，方便查证  
 > 修复了Tank面板因为缺少Pause插件的引用而产生的报错  
-## 4.14(EN)
+## 4.14 Update(EN)
 > Add a plugin and a vote that allows player to choose which type of infected she wanna player with.  
 > Weaken the tank when playing charger or jockey party.  
 > Fixed player self-save times when survivor count is lower than 4.
-## 4.14(ZH)
+## 4.14 Update(ZH)
 > 添加了特感派对的插件，使用!vote进行选择  
 > 削弱了ChargerParty和JockeyParty中的tank  
 > 修复了玩家在4人以下时的解控次数错误问题  
