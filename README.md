@@ -46,11 +46,13 @@
 > Updated the MVP info, added more statistics MSG.  
 > Add a vote allows player to use infinite shoved.  
 > Fixed the bug that when server is empty, the timer was still count down.  
+> Add a vote allows player turn off the consume-tank(default on).  
 ## 4.17 Update(ZH)
 > 修复了旁观视角的TankHud  
 > 升级了Mvp的技术信息统计，添加了章节时长和重启次数  
 > 添加了一个投票，允许玩家使用无限推，用于训练枪法  
 > 修复了Mvp的章节时长在空服时继续计时的问题  
+> 添加了一个投票，允许玩家决定是否开启消耗克(默认开启)
 ## 4.15 Update(EN)
 > Fixed the plugin's URL.  
 > Update the latest AI-Tank-Enhance plugin.  
