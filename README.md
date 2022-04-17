@@ -28,8 +28,8 @@
 ## 4.15(EN)
 > Fixed the plugin's URL.  
 > Update the latest AI-Tank-Enhance plugin.  
-> Change the tank consume times to 1  
-> Change the tank suffered damage percent to 100  
+> Change the tank consume times to 1.  
+> Change the tank suffered damage percent to 100.  
 > Add a Save-Chat plugin.  
 > Fixed Spec-Hud plugin's error report cause by Pause plugin is missing.  
 ## 4.15(ZH)
