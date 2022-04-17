@@ -173,4 +173,15 @@
             "message" "20秒"
         }
     }
+    "其他操作"
+    {
+        "exec vote/others/shove0.cfg"
+        {
+            "message" "开启无限推"
+        }
+        "exec vote/others/shoves.cfg"
+        {
+            "message" "关闭无限推"
+        }
+    }
 }
