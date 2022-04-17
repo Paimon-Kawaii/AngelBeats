@@ -28,11 +28,11 @@
 ## 4.17(EN)
 > Fixed Spec-Hud to show the state of tank.  
 > Updated the MVP info, added more statistics MSG.  
-> Add a vote allows player to use infinite shoved.
+> Add a vote allows player to use infinite shoved.  
 ## 4.17(ZH)
-> 修复了旁观视角的TankHud.  
-> 升级了Mvp的技术信息统计，添加了章节时长和重启次数.  
-> 添加了一个投票，允许玩家使用无限推，用于训练枪法.  
+> 修复了旁观视角的TankHud  
+> 升级了Mvp的技术信息统计，添加了章节时长和重启次数  
+> 添加了一个投票，允许玩家使用无限推，用于训练枪法  
 ## 4.15(EN)
 > Fixed the plugin's URL.  
 > Update the latest AI-Tank-Enhance plugin.  
