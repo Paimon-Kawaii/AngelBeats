@@ -183,5 +183,13 @@
         {
             "message" "关闭无限推"
         }
+        "sm_cvar ai_TankConsume 1"
+        {
+            "message" "开启消耗克"
+        }
+        "sm_cvar ai_TankConsume 0"
+        {
+            "message" "关闭消耗克"
+        }
     }
 }
