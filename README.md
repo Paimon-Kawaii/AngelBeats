@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [4.20 Update(EN)](#420-updateen)
+  * [4.20 Update(中文)](#420-updatezh)
   * [4.17 Update(EN)](#417-updateen)
   * [4.17 Update(中文)](#417-updatezh)
   * [4.15 Update(EN)](#415-updateen)
@@ -41,6 +43,24 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 4.20 Update(EN)
+> Fixed shove times to 5.  
+> Add a plugin that allows player to auto-refill, needs vote to turn on.  
+> Add training mode that makes 1vht mode more easier, needs vote to turn on.  
+> Change the jockey-skeet dmg to 170(former is 195) and fixed the hunter-skeet dmg to 150.  
+> Change the shotgun limit to 3.  
+> Open all talk.  
+> Allow all bot gaming.  
+> Change the smoker self-clear dmg to 170(former is 200).  
+## 4.20 Update(ZH)
+> 修正了生还推的次数为5  
+> 增加了一个插件允许玩家的武器可以自动装填，需要投票开启  
+> 新增了训练模式，在1vht时降低扣血，需要投票开启  
+> 修改了Jockey被空爆的伤害为170(之前是195)，修复了Hunter空爆的伤害为150  
+> 喷子的数量限制修改为3  
+> 默认开启了全语音  
+> 修复了提示需要双方均有人参与的bug  
+> 修改了舌头自救的伤害为170(之前是200)  
 ## 4.17 Update(EN)
 > Fixed Spec-Hud to show the state of tank.  
 > Updated the MVP info, added more statistics MSG.  
