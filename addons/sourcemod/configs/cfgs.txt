@@ -173,8 +173,16 @@
             "message" "20秒"
         }
     }
-    "其他操作"
+    "训练模式"
     {
+        "sm_cvar angel_training 1"
+        {
+            "message" "降低扣血"
+        }
+        "sm_cvar angel_traing 0"
+        {
+            "message" "正常扣血"
+        }
         "exec vote/others/shove0.cfg"
         {
             "message" "开启无限推"
@@ -183,6 +191,25 @@
         {
             "message" "关闭无限推"
         }
+        "sm_cvar angel_autorefill 1"
+        {
+            "message" "开启自动装弹"
+        }
+        "sm_cvar  angel_autorefill 0"
+        {
+            "message" "关闭自动装弹"
+        }
+    }
+    "其他操作"
+    {
+        "sm_cvar angel_reheal 1"
+        {
+            "message" "开启回血"
+        }
+        "sm_cvar angel_reheal 0"
+        {
+            "message" "关闭回血"
+        }
         "sm_cvar ai_TankConsume 1"
         {
             "message" "开启消耗克"
@@ -190,22 +217,6 @@
         "sm_cvar ai_TankConsume 0"
         {
             "message" "关闭消耗克"
-        }
-        "sm_cvar angel_training 1"
-        {
-            "message" "开启训练模式"
-        }
-        "sm_cvar angel_training 0"
-        {
-            "message" "关闭训练模式"
-        }
-        "sm_cvar angel_autorefill 1"
-        {
-            "message" "开启自动装填"
-        }
-        "sm_cvar angel_autorefill 0"
-        {
-            "message" "关闭自动装填"
         }
     }
 }
