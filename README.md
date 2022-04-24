@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [4.23 Update(EN)](#423-updateen)
+  * [4.23 Update(中文)](#423-updatezh)
   * [4.20 Update(EN)](#420-updateen)
   * [4.20 Update(中文)](#420-updatezh)
   * [4.17 Update(EN)](#417-updateen)
@@ -43,6 +45,16 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 4.23 Update(EN)
+> Add Training Mode, you can choose whatever you want in vote.  
+> Add re-health vote, now you can get temp health by kill infected.  
+> Fixed dmg taken for single player, now temp health will decrease correctly.  
+> Fixed player will be kill by plugin when player's real health is lower than 2.  
+## 4.23 Update(ZH)
+> 添加了训练模式的投票，你现在可以在投票中选择想要在训练中获得的增益了  
+> 添加了回血投票， 开启回血后可以通过杀死特感获得虚血  
+> 修复了单人时的受伤bug，虚血可以被正确的减少了  
+> 修复了插件在玩家实血低于2滴血时自动处死玩家的bug  
 ## 4.20 Update(EN)
 > Fixed shove times to 5.  
 > Add a plugin that allows player to auto-refill, needs vote to turn on.  
