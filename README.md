@@ -50,13 +50,13 @@
 > Add re-health vote, now you can get temp health by kill infected.  
 > Fixed dmg taken for single player, now temp health will decrease correctly.  
 > Fixed player will be kill by plugin when player's real health is lower than 2.  
-> When tank is in play, SI's count will be less than half of the limit in the party mode.  
+> When tank is in play and the survivor count is less than 4, SI's count will be less than half of the limit in the party mode.  
 ## 4.23 Update(ZH)
 > 添加了训练模式的投票，你现在可以在投票中选择想要在训练中获得的增益了  
 > 添加了回血投票， 开启回血后可以通过杀死特感获得虚血  
 > 修复了单人时的受伤bug，虚血可以被正确的减少了  
 > 修复了插件在玩家实血低于2滴血时自动处死玩家的bug  
-> 在派对模式中，如果Tank已经生成，则特感刷新数量减半，直至Tank死亡  
+> 在派对模式中，如果Tank已经生成，并且生还玩家数量少于4，则特感刷新数量减半，直至Tank死亡  
 ## 4.20 Update(EN)
 > Fixed shove times to 5.  
 > Add a plugin that allows player to auto-refill, needs vote to turn on.  
