@@ -179,7 +179,7 @@
         {
             "message" "降低扣血"
         }
-        "sm_cvar angel_traing 0"
+        "sm_cvar angel_trainging 0"
         {
             "message" "正常扣血"
         }
