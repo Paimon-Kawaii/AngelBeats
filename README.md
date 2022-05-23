@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [5.20 Update(EN)](#520-updateen)
+  * [5.20 Update(中文)](#520-updatezh)
   * [4.26 Update(EN)](#426-updateen)
   * [4.26 Update(中文)](#426-updatezh)
   * [4.23 Update(EN)](#423-updateen)
@@ -24,9 +26,9 @@
  
 ## New Pills Coop
 > This is a new pills coop **based on `Zonemod`**.  
-> It uses **`Anne`'s _7-7_ plugin** to spawn infected.  
+> ~~It uses **`Anne`'s _7-7_ plugin** to spawn infected.~~ Now it uses my own plugin to do so.  
 > It **looks like `Ast` but more difficult than `Ast`**.  
-> It likely won't spawn infected if survivors can see them, but because of anne, it will teleport infected, so maybe TP on your face?? XD.  
+> ~~It likely won't spawn infected if survivors can see them, but because of anne, it will teleport infected, so maybe TP on your face?? XD.~~ It will nerver spawn on your face, **NEVER!!**  
 
 ## Reason
 > I made this coop because `AnneHappy` is **unfriendly** to survivor since _11-28_ plugin.  
@@ -37,9 +39,9 @@
  
 ## 新的药役
 > 这是一个 **基于 `Zonemod`** 的新药役.  
-> 它使用了 **`Anne`的 _7-7_ 插件** 来生成特感.  
+> ~~它使用了 **`Anne`的 _7-7_ 插件** 来生成特感.~~ 现在是使用我自己的插件实现特感生成了.  
 > 它看起来 **很像 `Ast` 但比它更难**.  
-> 它不太可能会直接刷新到你脸上，但是由于`Anne`的插件有**传送机制**，所以有可能TP到生还脸上.  
+> ~~它不太可能会直接刷新到你脸上，但是由于`Anne`的插件有**传送机制**，所以有可能TP到生还脸上??XD.~~ 它绝对不会和`Anne`一样刷新到你脸上，TP也不会.  
 
 ## 原因
 > 我制作这个药役的原因是 `AnneHappy` 自 _11-28_ 后对生还**极不友好**.  
@@ -47,6 +49,26 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 5.20 Update(EN)
+> Attention! This is a **huge UPGRADE**, so you need to **delete some files** because it's never used, see it at followed.  
+> > 1. I suggest you to **delete the 'plugins' folder** and **put the new 'plugins' folder** as replaced. If you **add you own settings**,  **remove the 'anne' folder** which is in the 'angel' folder, then **do the replace** as before.  
+> > 2. Delete the 'hostname.smx' file in the 'angel'.  
+> 
+> The **UPGRADE** is as followed:  
+> > 1. The `anne`'s InfectedSpawner plugin has been fully removed. Now I use my own Director to control the infected spawned.  
+> > 2. Add the spawn info to the hostname.  
+> > 3. Fixed the melee not spawn as expect.  
+> > 4. Fixed the incorrect survivor count when someone joined.  
+## 5.20 Update(ZH)
+> 注意！这是一次**大更新**，所以你需要删除部分文件因为这些文件将不再被使用，不删除将导致特感刷新异常！详情见下方：  
+> > 1. 我建议你先删除'plugins'文件夹然后再使用新的'plugins'文件夹替换，如果你添加了自己的插件，删除'angel'文件夹中的'anne'文件夹，然后再做全局替换  
+> > 2.删除'angel'文件夹中的'hostname.smx'这个插件  
+> 
+> 本次**更新**了如下内容：  
+> > 1. 删除了`anne`的刷特插件，改为使用我自己的Angel导演插件控制刷新  
+> > 2. 在服务器名称中添加了当前的刷特信息  
+> > 3. 修复了出门不会给予砍刀的bug  
+> > 4. 修复了玩家加入生还时，生还的人数错误问题  
 ## 4.26 Update(EN)
 > Separate the training mod from director plugin.  
 > Mixed the refill plugin with training plugin.  
