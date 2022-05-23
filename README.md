@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [4.26 Update(EN)](#426-updateen)
+  * [4.26 Update(中文)](#426-updatezh)
   * [4.23 Update(EN)](#423-updateen)
   * [4.23 Update(中文)](#423-updatezh)
   * [4.20 Update(EN)](#420-updateen)
@@ -45,6 +47,18 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 4.26 Update(EN)
+> Separate the training mod from director plugin.  
+> Mixed the refill plugin with training plugin.  
+> Add a creator plugin.  
+> Add all4dead2 support.  
+> Test training plugin(It was coded with objected-pawn grammar, see a [test example](https://github.com/PaimonQwQ/L4D2-Plugins/tree/main/Object-Pawn%20Plugins%20TEST#readme) in my L4D2-Plugins repo).  
+## 4.26 Update(ZH)
+> 将训练模式从导演插件中分离  
+> 将自动装填插件与训练模式插件融合  
+> 添加了造物主插件  
+> 添加了All4Dead2插件  
+> 测试训练模式插件(训练模式是用仿面向对象的语法风格编写，详情见我L4D2-Plugins仓库中的一个[测试用例](https://github.com/PaimonQwQ/L4D2-Plugins/tree/main/Object-Pawn%20Plugins%20TEST#readme))  
 ## 4.23 Update(EN)
 > Add Training Mode, you can choose whatever you want in vote.  
 > Add re-health vote, now you can get temp health by kill infected.  
