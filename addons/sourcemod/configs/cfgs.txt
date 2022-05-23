@@ -226,5 +226,13 @@
         {
             "message" "关闭消耗克"
         }
+        "sm_cvar angel_director_hard 1"
+        {
+            "message" "开启困难模式"
+        }
+        "sm_cvar angel_director_hard 0"
+        {
+            "message" "关闭困难模式"
+        }
     }
 }
