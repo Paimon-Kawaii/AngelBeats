@@ -50,8 +50,8 @@
 
 # AngelBeats - Update logs(EN & ZH)
 ## 5.20 Update(EN)
-> Attention! This is a **huge UPGRADE**, so you need to **delete some files** because it's never used, see it at followed.  
-> > 1. I suggest you to **delete the 'plugins' folder** and **put the new 'plugins' folder** as replaced. If you **add you own settings**,  **remove the 'anne' folder** which is in the 'angel' folder, then **do the replace** as before.  
+> Attention! This is a **huge UPGRADE**, so you need to **delete some files** because they're never used, see it at followed.  
+> > 1. I suggest you to **delete the 'plugins' folder** and **put the new 'plugins' folder** as replaced. If you **add your own settings**,  **remove the 'anne' folder** which is in the 'angel' folder, then **do the replace** as before.  
 > > 2. Delete the 'hostname.smx' file in the 'angel'.  
 > 
 > The **UPGRADE** is as followed:  
@@ -62,7 +62,7 @@
 ## 5.20 Update(ZH)
 > 注意！这是一次**大更新**，所以你需要删除部分文件因为这些文件将不再被使用，不删除将导致特感刷新异常！详情见下方：  
 > > 1. 我建议你先删除'plugins'文件夹然后再使用新的'plugins'文件夹替换，如果你添加了自己的插件，删除'angel'文件夹中的'anne'文件夹，然后再做全局替换  
-> > 2.删除'angel'文件夹中的'hostname.smx'这个插件  
+> > 2. 删除'angel'文件夹中的'hostname.smx'这个插件  
 > 
 > 本次**更新**了如下内容：  
 > > 1. 删除了`anne`的刷特插件，改为使用我自己的Angel导演插件控制刷新  
