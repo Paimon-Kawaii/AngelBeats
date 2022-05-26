@@ -51,7 +51,7 @@
 # AngelBeats - Update logs(EN & ZH)
 ## 5.20 Update(EN)
 > Attention! This is a **huge UPGRADE**, so you need to **delete some files** because it's never used, see it at followed.  
-> > 1. I suggest you to **delete the 'plugins' folder** and **put the new 'plugins' folder** as replaced. If you **add you own settings**,  **remove the 'anne' folder** which is in the 'angel' folder, then **do the replace** as before.  
+> > 1. I suggest you to **delete the 'plugins' folder** and **put the new 'plugins' folder** as replaced. If you **add your own settings**,  **remove the 'anne' folder** which is in the 'angel' folder, then **do the replace** as before.  
 > > 2. Delete the 'hostname.smx' file in the 'angel'.  
 > 
 > The **UPGRADE** is as followed:  
