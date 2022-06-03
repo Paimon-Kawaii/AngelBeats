@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [6.1 Update(EN)](#61-updateen)
+  * [6.1 Update(中文)](#61-updatezh)
   * [5.20 Update(EN)](#520-updateen)
   * [5.20 Update(中文)](#520-updatezh)
   * [4.26 Update(EN)](#426-updateen)
@@ -49,6 +51,16 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 6.1 Update(EN)
+> Fixed survivor bug when player disconnected.  
+> Enhance director spawner.  
+> Add multiplayer mode(up to 6 players)  
+> Upload 'dynamic' library.  
+## 6.1 Update(ZH)
+> 修复了玩家离开服务器时的生还bug  
+> 增强了导演的刷新模式    
+> 添加了多人投票(最高6人)  
+> 上传了 'dynamic' 依赖    
 ## 5.20 Update(EN)
 > Attention! This is a **huge UPGRADE**, so you need to **delete some files** because they're never used, see it at followed.  
 > > 1. I suggest you to **delete the 'plugins' folder** and **put the new 'plugins' folder** as replaced. If you **add your own settings**,  **remove the 'anne' folder** which is in the 'angel' folder, then **do the replace** as before.  
