@@ -173,6 +173,33 @@
             "message" "20秒"
         }
     }
+    "生还上限"
+    {
+        "sm_cvar angel_survivor_limit 1"
+        {
+            "message" "1人"
+        }
+        "sm_cvar angel_survivor_limit 2"
+        {
+            "message" "2人"
+        }
+        "sm_cvar angel_survivor_limit 3"
+        {
+            "message" "3人"
+        }
+        "sm_cvar angel_survivor_limit 4"
+        {
+            "message" "4人"
+        }
+        "sm_cvar angel_survivor_limit 5"
+        {
+            "message" "5人"
+        }
+        "sm_cvar angel_survivor_limit 6"
+        {
+            "message" "6人"
+        }
+    }
     "训练模式"
     {
         "sm_cvar angel_training 1"

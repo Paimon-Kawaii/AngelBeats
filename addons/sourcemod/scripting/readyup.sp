@@ -1221,8 +1221,8 @@ bool CheckFullReady()
             }
         }
     }
-
-    return survReadyCount >= GetTeamHumanCount(L4D2Team_Survivor) / 2 + 1;
+    if(!FindConVar("angel_hunt").BoolValue)
+        return survReadyCount >= GetTeamHumanCount(L4D2Team_Survivor) / 2 + 1;
 
     int survLimit = survivor_limit.IntValue;
     int zombLimit = z_max_player_zombies.IntValue;
