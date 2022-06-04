@@ -30,7 +30,7 @@
  
 ## New Pills Coop
 > This is a new pills coop **based on `Zonemod`**.  
-> ~~It uses **`Anne`'s _7-7_ plugin** to spawn infected.~~ Now it uses my own plugin to do so.  
+> ~~It uses **`AnneHappy`'s _7-7_ plugin** to spawn infected.~~ Now it uses my own plugin to do so.  
 > It **looks like `Ast` but more difficult than `Ast`**.  
 > ~~It likely won't spawn infected if survivors can see them, but because of anne, it will teleport infected, so maybe TP on your face?? XD.~~ It will nerver spawn on your face, **NEVER!!**  
 
@@ -43,7 +43,7 @@
  
 ## 新的药役
 > 这是一个 **基于 `Zonemod`** 的新药役.  
-> ~~它使用了 **`Anne`的 _7-7_ 插件** 来生成特感.~~ 现在是使用我自己的插件实现特感生成了.  
+> ~~它使用了 **`AnneHappy`的 _7-7_ 插件** 来生成特感.~~ 现在是使用我自己的插件实现特感生成了.  
 > 它看起来 **很像 `Ast` 但比它更难**.  
 > ~~它不太可能会直接刷新到你脸上，但是由于`AnneHappy`的插件有**传送机制**，所以有可能TP到生还脸上??XD.~~ 它**绝对不会**和`AnneHappy`一样刷新到你脸上，TP也不会.  
 
