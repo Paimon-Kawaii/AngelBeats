@@ -1,9 +1,9 @@
 ---
-Name: Bug report
-About: Create a report to help us improve
-How: How it happens
-Suggest: What's your opinion
-Others: ''
+name: Bug report
+about: Create a report to help us improve
+how: How it happens
+suggest: What's your opinion
+others: ''
 ---
 
 **Describe the bug**  
