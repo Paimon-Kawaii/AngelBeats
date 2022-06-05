@@ -67,6 +67,7 @@
 > >   - scatterpitch change to 2.  
 > >   - scatteryaw change to 2.5.  
 >
+> Allowed `thirdpersionshoulder` view.  
 > Enhance director spawner.  
 > Fixed `viewfix` plugin.  
 > Fixed survivor count bug.  
@@ -87,6 +88,7 @@
 > >   - 水平扩散变动为2  
 > >   - 垂直扩散变动为2.5  
 >
+> 允许了第三人称视角  
 > 增强了导演刷特  
 > 修复了`viewfix`插件的bug  
 > 修复了玩家数量的bug  
