@@ -56,9 +56,11 @@
 ## 6.4 Update(EN)
 > Sync the `Zonemod`'s updates.  
 > Change the hostname and the game description shown by `angel_hostname.smx` in a better way.  
+> Add grenade launcher and m60 in guard store.  
 ## 6.4 Update(ZH)
-> 同步了`Zonemod`的更新.  
-> 更改了`angel_hostname.smx`插件的显示方式.  
+> 同步了`Zonemod`的更新  
+> 更改了`angel_hostname.smx`插件的显示方式  
+> 在商店添加了榴弹和M60  
 ## 6.1 Update(EN)
 > Fixed survivor bug when player disconnected.  
 > Enhance director spawner.  
