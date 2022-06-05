@@ -30,7 +30,7 @@ L 06/05/2022 - 11:13:11: [SM]   [2] Line 263, angel_director.sp::Timer_DelaySIDe
 
 **Desktop (please complete the following information):**  
  - OS: [e.g. Linux]
- - Version [e.g. #6.1 Update]
+ - Version: [e.g. #6.1 Update]
 
 **Additional context**  
 Add any other context about the problem here.
