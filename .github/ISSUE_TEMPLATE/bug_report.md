@@ -1,38 +1,36 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+Name: Bug report
+About: Create a report to help us improve
+How: How it happens
+Suggest: What's your opinion
+Others: ''
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the bug**  
+A clear and concise description of what the bug is.  
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**To Reproduce**  
+Steps to reproduce the behavior:  
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected behavior**  
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Error log**  
+If applicable, add logs to help explain your problem.  
+[e.g. L 06/05/2022 - 11:13:11: [SM] Exception reported: Client index -1 is invalid  
+L 06/05/2022 - 11:13:11: [SM] Blaming: angel/angel_director.smx  
+L 06/05/2022 - 11:13:11: [SM] Call stack trace:  
+L 06/05/2022 - 11:13:11: [SM]   [0] GetClientAbsOrigin  
+L 06/05/2022 - 11:13:11: [SM]   [1] Line 336, angel_director.sp::CheckDelaySITeleport  
+L 06/05/2022 - 11:13:11: [SM]   [2] Line 263, angel_director.sp::Timer_DelaySIDealed]  
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Desktop (please complete the following information):**  
+ - OS: [e.g. Linux]
+ - Version [e.g. #6.1 Update]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
+**Additional context**  
 Add any other context about the problem here.
