@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [6.5 Update(EN)](#65-updateen)
+  * [6.5 Update(中文)](#65-updatezh)
   * [6.4 Update(EN)](#64-updateen)
   * [6.4 Update(中文)](#64-updatezh)
   * [6.1 Update(EN)](#61-updateen)
@@ -53,6 +55,40 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 6.5 Update(EN)
+> Modified shotgun data:  
+> > - Pump shotgun:  
+> >   - dmg up to 330 for 1 shot(22dmg\*15).  
+> >   - scatterpitch change to 3.75.  
+> >   - scatteryaw change to 4.25.  
+> >
+> > - Chrome shotgun:  
+> >   - dmg reduce to 255 for 1 shot(17dmg\*15).  
+> >   - scatterpitch change to 2.  
+> >   - scatteryaw change to 2.5.  
+>
+> Enhance director spawner.  
+> Fixed `viewfix` plugin.  
+> Fixed survivor count bug.  
+> Fixed single player mode(kick SI when tank in playing).  
+> Fixed 'player not in game' error log.  
+## 6.5 Update(ZH)
+> 修改了单喷的枪械数据:  
+> > - 木喷：  
+> >   - 伤害提升到330一喷(22伤害\*15弹丸)  
+> >   - 水平扩散变动为3.75  
+> >   - 垂直扩散变动为4.25  
+> >
+> > - 铁喷：  
+> >   - 伤害减少为255一喷(17伤害\*15弹丸)  
+> >   - 水平扩散变动为2  
+> >   - 垂直扩散变动为2.5  
+>
+> 增强了导演刷特  
+> 修复了`viewfix`插件的bug  
+> 修复了玩家数量的bug  
+> 调整了单人模式(tank存在时不再继续刷特)  
+> 修复了'player not in game'的错误警告  
 ## 6.4 Update(EN)
 > Sync the `Zonemod`'s updates.  
 > Change the hostname and the game description shown by `angel_hostname.smx` in a better way.  
