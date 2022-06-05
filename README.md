@@ -72,6 +72,9 @@
 > Fixed survivor count bug.  
 > Fixed single player mode(kick SI when tank in playing).  
 > Fixed 'player not in game' error log.  
+> Fixed map crash bug.  
+> Add auto level change when rescued(to the fist chapter).  
+> Fixed m60 clip size.  
 ## 6.5 Update(ZH)
 > 修改了单喷的枪械数据:  
 > > - 木喷：  
@@ -89,6 +92,9 @@
 > 修复了玩家数量的bug  
 > 调整了单人模式(tank存在时不再继续刷特)  
 > 修复了'player not in game'的错误警告  
+> 修复了地图崩溃的bug  
+> 添加了上救援自动换图(回到第一张图)  
+> 修复了M60的弹药  
 ## 6.4 Update(EN)
 > Sync the `Zonemod`'s updates.  
 > Change the hostname and the game description shown by `angel_hostname.smx` in a better way.  
