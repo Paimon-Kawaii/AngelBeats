@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [6.6 Update(EN)](#66-updateen)
+  * [6.6 Update(中文)](#66-updatezh)
   * [6.5 Update(EN)](#65-updateen)
   * [6.5 Update(中文)](#65-updatezh)
   * [6.4 Update(EN)](#64-updateen)
@@ -55,6 +57,28 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 6.6 Update(EN)
+> Modified shotgun data:  
+> > - Pump shotgun:  
+> >   - dmg reduce to 300 for 1 shot(15dmg\*20).  
+> >   - scatterpitch change to 4.75.  
+> >   - scatteryaw change to 4.75.  
+> >
+> > - Chrome shotgun:  
+> >   - dmg up to 270 for 1 shot(18dmg\*15).  
+> >   - scatterpitch change to 0.5.  
+> >   - scatteryaw change to 0.5.  
+## 6.6 Update(ZH)
+> 修改了单喷的枪械数据:  
+> > - 木喷：  
+> >   - 伤害减少为300一喷(15伤害\*20弹丸)  
+> >   - 水平扩散变动为4.75  
+> >   - 垂直扩散变动为4.75  
+> >
+> > - 铁喷：  
+> >   - 伤害提升到270一喷(18伤害\*15弹丸)  
+> >   - 水平扩散变动为0.5  
+> >   - 垂直扩散变动为0.5  
 ## 6.5 Update(EN)
 > Modified shotgun data:  
 > > - Pump shotgun:  
