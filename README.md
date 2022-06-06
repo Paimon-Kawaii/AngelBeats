@@ -60,12 +60,12 @@
 ## 6.6 Update(EN)
 > Modified shotgun data:  
 > > - Pump shotgun:  
-> >   - dmg reduce to 300 for 1 shot(15dmg\*20).  
+> >   - dmg reduce to 300 for 1 shot(20dmg\*15).  
 > >   - scatterpitch change to 4.75.  
 > >   - scatteryaw change to 4.75.  
 > >
 > > - Chrome shotgun:  
-> >   - dmg up to 270 for 1 shot(18dmg\*15).  
+> >   - dmg reduce to 255 for 1 shot(15dmg\*17).  
 > >   - scatterpitch change to 0.5.  
 > >   - scatteryaw change to 0.5.  
 ## 6.6 Update(ZH)
