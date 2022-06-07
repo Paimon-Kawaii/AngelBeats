@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [6.7 Update(EN)](#67-updateen)
+  * [6.7 Update(中文)](#67-updatezh)
   * [6.6 Update(EN)](#66-updateen)
   * [6.6 Update(中文)](#66-updatezh)
   * [6.5 Update(EN)](#65-updateen)
@@ -57,6 +59,12 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 6.7 Update(EN)
+> Add auto level change, `AngelCore` will intelligently select next level from now on(Only official maps).  
+> Enhance teleport judging, now `AngelDirector` will smartly judge a teleportation condition by if the special can be heard or seen.  
+## 6.7 Update(ZH)
+> 添加了自动换图功能，`AngelCore`将会自动判断下一章节会是哪张图(仅限官图)  
+> 加强了传送判定，现在`AngelDirector`将会根据特感是否能被听见或者看见决定是否传送  
 ## 6.6 Update(EN)
 > Modified shotgun data:  
 > > - Pump shotgun:  
