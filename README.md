@@ -6,7 +6,7 @@
 * [AngelBeats - Readme(中文)](#angelbeats---readmezh)
   * [新的药役](#新的药役)
   * [原因](#原因)
-* [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh))
+* [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
   * [6.7 Update(EN)](#67-updateen)
   * [6.7 Update(中文)](#67-updatezh)
   * [6.6 Update(EN)](#66-updateen)
