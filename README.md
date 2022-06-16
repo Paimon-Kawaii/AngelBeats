@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [6.16 Update(EN)](#616-updateen)
+  * [6.16 Update(中文)](#616-updatezh)
   * [6.7 Update(EN)](#67-updateen)
   * [6.7 Update(中文)](#67-updatezh)
   * [6.6 Update(EN)](#66-updateen)
@@ -59,6 +61,16 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 6.16 Update(EN)
+> Update by **[@fantasylidong](https://github.com/fantasylidong)**  
+> > Fixed `gun_control` and `training_mode`.  
+> > Fixed `dynamic` loading.  
+> > Add showing hostname by port.  
+## 6.16 Update(ZH)
+> 由 **[@东](https://github.com/fantasylidong)** 提供的更新  
+> > 修复了 `gun_control` 和 `trainging_mode` 的bug  
+> > 修正了 `dynamic` 的加载顺序  
+> > 添加了端口名称功能  
 ## 6.7 Update(EN)
 > Add auto level change, `AngelCore` will intelligently select next level from now on(Only official maps).  
 > Enhance teleport judging, now `AngelDirector` will smartly judge a teleportation condition by if the special can be heard or seen.  
@@ -79,12 +91,12 @@
 ## 6.6 Update(ZH)
 > 修改了单喷的枪械数据:  
 > > - 木喷：  
-> >   - 伤害减少为300一喷(15伤害\*20弹丸)  
+> >   - 伤害减少为300一喷(20伤害\*15弹丸)  
 > >   - 水平扩散变动为4.75  
 > >   - 垂直扩散变动为4.75  
 > >
 > > - 铁喷：  
-> >   - 伤害提升到270一喷(18伤害\*15弹丸)  
+> >   - 伤害提减少255一喷(15伤害\*17弹丸)  
 > >   - 水平扩散变动为0.5  
 > >   - 垂直扩散变动为0.5  
 ## 6.5 Update(EN)
