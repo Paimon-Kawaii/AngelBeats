@@ -1,7 +1,0 @@
-"Anglebeats"
-{
-        "18888"
-        {
-                "servername"    "派蒙才不是应急食品"
-        }
-}
