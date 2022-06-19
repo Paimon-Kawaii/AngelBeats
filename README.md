@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [6.19 Update(EN)](#619-updateen)
+  * [6.19 Update(中文)](#619-updatezh)
   * [6.16 Update(EN)](#616-updateen)
   * [6.16 Update(中文)](#616-updatezh)
   * [6.7 Update(EN)](#67-updateen)
@@ -61,6 +63,14 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 6.19 Update(EN)
+> Fixed hostname managed by port.  
+> Changed the director hard mode to open as default.  
+> Changed the director spawn mode to 3(hunter position) as default.  
+## 6.19 Update(ZH)
+> 修正了端口管理名称的功能  
+> 将导演刷特的困难模式更改为默认打开  
+> 将导演刷特的初始位置更改为3(hunter的位置)  
 ## 6.16 Update(EN)
 > Update by **[@fantasylidong](https://github.com/fantasylidong)**  
 > > Fixed `gun_control` and `training_mode`.  
