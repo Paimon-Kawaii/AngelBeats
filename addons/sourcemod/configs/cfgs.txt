@@ -177,27 +177,27 @@
     {
         "sm_cvar angel_survivor_limit 1"
         {
-            "message" "1人"
+            "message" "生还上限1人"
         }
         "sm_cvar angel_survivor_limit 2"
         {
-            "message" "2人"
+            "message" "生还上限2人"
         }
         "sm_cvar angel_survivor_limit 3"
         {
-            "message" "3人"
+            "message" "生还上限3人"
         }
         "sm_cvar angel_survivor_limit 4"
         {
-            "message" "4人"
+            "message" "生还上限4人"
         }
         "sm_cvar angel_survivor_limit 5"
         {
-            "message" "5人"
+            "message" "生还上限5人"
         }
         "sm_cvar angel_survivor_limit 6"
         {
-            "message" "6人"
+            "message" "生还上限6人"
         }
     }
     "训练模式"
