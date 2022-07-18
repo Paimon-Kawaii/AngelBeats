@@ -7,6 +7,8 @@
   * [新的药役](#新的药役)
   * [原因](#原因)
 * [AngelBeats - Update logs(EN & 中文)](#angelbeats---update-logsen--zh)
+  * [7.18 Update(EN)](#718-updateen)
+  * [7.18 Update(中文)](#718-updatezh)
   * [6.19 Update(EN)](#619-updateen)
   * [6.19 Update(中文)](#619-updatezh)
   * [6.16 Update(EN)](#616-updateen)
@@ -63,6 +65,16 @@
 > **难度很有必要**, 但 **_不应该是这样_**. 这就是我制作 `AngelBeats` 的原因.  
 
 # AngelBeats - Update logs(EN & ZH)
+## 7.18 Update(EN)
+> Final Update  
+> Fix a crash bug caused by deep loop(Found and fixed by **@Null**).  
+> Add crowbar selection in Guard Shop.  
+> Fix ready-up.  
+## 7.18 Update(ZH)
+> 最后一次更新  
+> 修复了一个死循环所导致的崩服bug(由 **@Null** 提供并修复)  
+> 商店近战添加了撬棍(物理学圣剑XD)  
+> 修复了准备插件的bug  
 ## 6.19 Update(EN)
 > Fixed hostname managed by port.  
 > Changed the director hard mode to open as default.  
